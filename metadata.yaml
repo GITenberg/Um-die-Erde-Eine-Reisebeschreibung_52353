@@ -1,5 +1,8 @@
 _repo: Um-die-Erde-Eine-Reisebeschreibung_52353
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52353-h/images/cover.jpg
 creator:
   author:
     agent_name: Hirschberg, J. (Julius)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46806'
     url: http://www.gutenberg.org/2009/agents/46806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52353#Um-die-Erde-Eine-Reisebeschreibung
 gutenberg_issued: '2016-06-16'
 gutenberg_type: Text
 identifiers:
