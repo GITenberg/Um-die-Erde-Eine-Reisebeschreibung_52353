@@ -1,0 +1,25 @@
+_repo: Um-die-Erde-Eine-Reisebeschreibung_52353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hirschberg, J. (Julius)
+    alias: Hirschberg, Julius
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '46806'
+    url: http://www.gutenberg.org/2009/agents/46806
+description: ''
+gutenberg_issued: '2016-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52353'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+title: 'Um die Erde: Eine Reisebeschreibung'
+url: http://www.gutenberg.org/ebooks/52353
